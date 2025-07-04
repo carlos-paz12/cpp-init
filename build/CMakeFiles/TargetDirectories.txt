@@ -1,0 +1,6 @@
+/home/capz/Documentos/Git/cpp-init/build/CMakeFiles/cpp_init.dir
+/home/capz/Documentos/Git/cpp-init/build/CMakeFiles/edit_cache.dir
+/home/capz/Documentos/Git/cpp-init/build/CMakeFiles/rebuild_cache.dir
+/home/capz/Documentos/Git/cpp-init/build/tests/CMakeFiles/test_example.dir
+/home/capz/Documentos/Git/cpp-init/build/tests/CMakeFiles/edit_cache.dir
+/home/capz/Documentos/Git/cpp-init/build/tests/CMakeFiles/rebuild_cache.dir

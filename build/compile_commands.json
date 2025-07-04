@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/capz/Documentos/Git/cpp-init/build",
+  "command": "/usr/bin/c++  -I/home/capz/Documentos/Git/cpp-init/include -I/home/capz/Documentos/Git/cpp-init/modules -std=gnu++20 -Wall -Wextra -Wpedantic -o CMakeFiles/cpp_init.dir/sources/cpp-init/example.cpp.o -c /home/capz/Documentos/Git/cpp-init/sources/cpp-init/example.cpp",
+  "file": "/home/capz/Documentos/Git/cpp-init/sources/cpp-init/example.cpp",
+  "output": "CMakeFiles/cpp_init.dir/sources/cpp-init/example.cpp.o"
+},
+{
+  "directory": "/home/capz/Documentos/Git/cpp-init/build",
+  "command": "/usr/bin/c++  -I/home/capz/Documentos/Git/cpp-init/include -I/home/capz/Documentos/Git/cpp-init/modules -std=gnu++20 -Wall -Wextra -Wpedantic -o CMakeFiles/cpp_init.dir/sources/main.cpp.o -c /home/capz/Documentos/Git/cpp-init/sources/main.cpp",
+  "file": "/home/capz/Documentos/Git/cpp-init/sources/main.cpp",
+  "output": "CMakeFiles/cpp_init.dir/sources/main.cpp.o"
+},
+{
+  "directory": "/home/capz/Documentos/Git/cpp-init/build/tests",
+  "command": "/usr/bin/c++  -I/home/capz/Documentos/Git/cpp-init/include -I/home/capz/Documentos/Git/cpp-init/modules -std=gnu++17 -o CMakeFiles/test_example.dir/test_example.cpp.o -c /home/capz/Documentos/Git/cpp-init/tests/test_example.cpp",
+  "file": "/home/capz/Documentos/Git/cpp-init/tests/test_example.cpp",
+  "output": "tests/CMakeFiles/test_example.dir/test_example.cpp.o"
+},
+{
+  "directory": "/home/capz/Documentos/Git/cpp-init/build/tests",
+  "command": "/usr/bin/c++  -I/home/capz/Documentos/Git/cpp-init/include -I/home/capz/Documentos/Git/cpp-init/modules -std=gnu++17 -o CMakeFiles/test_example.dir/__/sources/cpp-init/example.cpp.o -c /home/capz/Documentos/Git/cpp-init/sources/cpp-init/example.cpp",
+  "file": "/home/capz/Documentos/Git/cpp-init/sources/cpp-init/example.cpp",
+  "output": "tests/CMakeFiles/test_example.dir/__/sources/cpp-init/example.cpp.o"
+}
+]

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/capz/Documentos/Git/cpp-init/build/cmake_install.cmake",
+		"/home/capz/Documentos/Git/cpp-init/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

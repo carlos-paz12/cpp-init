@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/cpp_init.dir/sources/cpp-init/example.cpp.o" CMakeFiles/cpp_init.dir/sources/main.cpp.o -o /home/capz/Documentos/Git/cpp-init/bin/cpp_init
